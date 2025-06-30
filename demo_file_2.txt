@@ -1,1 +1,3 @@
 Dòng "đây là file số 2" được chỉnh sửa
+
+Test thử lệnh git pull
